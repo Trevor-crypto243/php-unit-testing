@@ -9,4 +9,4 @@ Setting up a CI/Cd pipeline
 
 Php and Unit Tests
 Run tests in Docker container as part of CI/CD pipeline
-Configure gitlab to display test results and let pipeline fail on test errors 
+Configure gitlab to display test results and let pipeline fail automatically on test errors 
